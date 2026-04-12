@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👱‍♀️
 <h1 align="center">Hi 👋, I'm Vaishnavi</h1>
 
 <p align="center">
@@ -47,7 +47,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 😃 Featured Projects
 
 ### 🔬 PaperIQ — AI-Powered Research Insight Analyzer
 - Uploads and analyzes research papers
