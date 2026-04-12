@@ -1,7 +1,8 @@
-<h1 align="center">hello ppl, I'm Vaishnavi 👩🏻‍💻</h1>
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Vaishnavi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=AI+%26+Cloud+Enthusiast;B.Tech+AI+%26+Data+Science+Student;IITM+BS+in+Data+Science;Building+real-world+AI+%26+Full-Stack+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=AI+%26+Cloud+Enthusiast;Building+real-world+AI+%26+Full-Stack+Projects;B.Tech+AI+%26+Data+Science+@+SJIT;Always+learning%2C+always+building" />
 </p>
 
 ---
@@ -16,14 +17,14 @@
 ---
 
 ## 💻 Tech Stack
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,nodejs,fastapi,postgres,aws,docker,git,github,streamlit" />
 </p>
 
 ---
 
 ## 🌐 Connect
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/vaishnavidevi07/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
