@@ -1,5 +1,5 @@
 ## 👱‍♀️
-<h1 align="center">heyyy hi,I'm Vaishnavi devi </h1>
+<h1 align="center">hey hi,I'm Vaishnavi devi </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=AI+%26+Cloud+Enthusiast;B.Tech+AI+%26+Data+Science+Student;IITM+BS+in+Data+Science;Building+real-world+AI+%26+Full-Stack+Projects;Always+learning%2C+always+building" alt="Typing SVG" />
