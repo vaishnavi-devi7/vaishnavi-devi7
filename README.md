@@ -9,7 +9,6 @@
 
 ##  About Me
 - B.Tech AI & Data Science @ SJIT  
-- IIT Madras BS Data Science  
 - Exploring Cloud & scalable systems  
 - Building AI-powered applications  
 - Full-stack learner  
