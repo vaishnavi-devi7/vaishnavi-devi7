@@ -6,23 +6,26 @@
   </picture>
 </p>
 
-<h3 align="center">Hi 👋, I'm Vaishnavi Devi</h3>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none;">
+  <tr>
+    <td align="center" width="240" style="border: none;">
+      <img src="https://raw.githubusercontent.com/vaishnavi-devi7/vaishnavi-devi7/main/assets/avatar.png" width="200" alt="Vaishnavi Devi" />
+    </td>
+    <td style="border: none;">
+      <h2>Vaishnavi Devi</h2>
+      <strong>B.Tech AI & Data Science</strong><br>
+      <em>AI / ML &middot; Full Stack &middot; Cloud</em><br><br>
+      Building practical software and exploring<br>
+      intelligent systems, modern web development<br>
+      and cloud technologies.<br><br>
+      St. Joseph's College of Engineering
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  B.Tech AI & Data Science student building projects across<br>
-  AI, ML, cloud and full-stack development.
-</p>
+<br>
 
-<h4 align="center">About Me</h4>
-
-<p align="center">
-  B.Tech AI & Data Science<br>
-  AI / ML enthusiast<br>
-  Building practical software projects<br>
-  Exploring cloud and full-stack development
-</p>
-
-<h4 align="center">Languages & Tools</h4>
+<h3 align="center">Languages & Tools</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vaishnavi-devi7/vaishnavi-devi7/main/assets/python.svg" width="40" alt="Python" /> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -43,23 +46,7 @@
   <img src="https://cdn.simpleicons.org/git" width="40" alt="Git" />
 </p>
 
-<h4 align="center">GitHub Stats</h4>
-
-<p align="center">
-  <a href="https://github.com/vaishnavi-devi7">
-    <img src="https://github-readme-stats-jade-alpha-88.vercel.app/api?username=vaishnavi-devi7&bg_color=0A101F&title_color=22D3EE&icon_color=10B981&text_color=E2E8F0&border_color=22D3EE&hide_rank=true" width="49%" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/vaishnavi-devi7">
-    <img src="https://github-readme-stats-jade-alpha-88.vercel.app/api/top-langs/?username=vaishnavi-devi7&bg_color=0A101F&title_color=22D3EE&text_color=E2E8F0&border_color=22D3EE&layout=compact" width="49%" alt="Top Languages" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/vaishnavi-devi7">
-    <img src="https://streak-stats.demolab.com?user=vaishnavi-devi7&background=0A101F&stroke=22D3EE&ring=10B981&fire=10B981&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=E2E8F0&hide_border=false" width="70%" alt="GitHub Streak" />
-  </a>
-</p>
-
-<h4 align="center">Contributions</h4>
+<br>
 
 <p align="center">
   <picture>
@@ -68,6 +55,8 @@
     <img alt="Contribution Snake" src="https://raw.githubusercontent.com/vaishnavi-devi7/vaishnavi-devi7/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </p>
+
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaishnavidevi07/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
