@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <em>B.Tech AI & Data Science Student &nbsp;|&nbsp; AI/ML Enthusiast &nbsp;|&nbsp; Full-Stack Developer</em>
+  <em>B.Tech AI & Data Science Student &nbsp;|&nbsp; AI/CLOUD Enthusiast &nbsp;|&nbsp; Full-Stack Developer</em>
 </p>
 
 <br>
