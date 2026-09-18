@@ -4,7 +4,6 @@
 
 <br>
 <h2 align="center">Hiii, Vaishnavi devi here !</h2>
-<p align="center">
 </p>
 <br clear="all" />
 
@@ -12,10 +11,10 @@
 
 ### About Me
 
-- 🎓 B.Tech AI & Data Science @ SJIT
-- ☁️ Exploring Cloud & scalable systems
-- 🤖 Building AI-powered applications
-- 💻 Full-stack learner
+- B.Tech AI & Data Science @ SJIT
+- Exploring Cloud & scalable systems
+- Building AI-powered applications
+- Full-stack learner
 
 ---
 
