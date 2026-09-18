@@ -1,29 +1,53 @@
+<a href="https://github.com/vaishnavi-devi7">
+  <img align="left" src="https://raw.githubusercontent.com/vaishnavi-devi7/vaishnavi-devi7/main/assets/avatar.png" width="140" alt="Vaishnavi Devi" />
+</a>
+
+<br>
+<h2 align="center">Hiii, Vaishnavi devi here !</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vaishnavi-devi7/vaishnavi-devi7/main/assets/avatar.png" width="150" alt="Vaishnavi Devi" />
+  Building real-world AI & Full-Stack Projects
+</p>
+<br clear="all" />
+
+---
+
+### About Me
+
+- 🎓 B.Tech AI & Data Science @ SJIT
+- ☁️ Exploring Cloud & scalable systems
+- 🤖 Building AI-powered applications
+- 💻 Full-stack learner
+
+---
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vaishnavi-devi7/vaishnavi-devi7/main/assets/python.svg" width="35" alt="Python" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/java" width="35" alt="Java" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus" width="35" alt="C++" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript" width="35" alt="JavaScript" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/vaishnavi-devi7/vaishnavi-devi7/main/assets/react.svg" width="35" alt="React" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs" width="35" alt="Node.js" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vite" width="35" alt="Vite" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql" width="35" alt="PostgreSQL" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/vaishnavi-devi7/vaishnavi-devi7/main/assets/aws.svg" width="35" alt="AWS" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker" width="35" alt="Docker" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git" width="35" alt="Git" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/E2E8F0" width="35" alt="GitHub" />
 </p>
 
-<h1 align="center">Vaishnavi Devi</h1>
+---
+
+### Connect
 
 <p align="center">
-  <strong>B.Tech AI & Data Science</strong><br>
-  <em>AI / ML &middot; Full Stack &middot; Cloud</em>
+  <a href="https://www.linkedin.com/in/vaishnavidevi07/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn" />
+  </a>
 </p>
 
-<p align="center">
-  Building practical software across AI, machine learning,<br>
-  full-stack development and cloud.
-</p>
+---
 
-<p align="center">
-  <a href="https://github.com/vaishnavi-devi7">GitHub</a> &middot;
-  <a href="https://www.linkedin.com/in/vaishnavidevi07/">LinkedIn</a> &middot;
-  <a href="mailto:se.vaishnavidevi07@gmail.com">Email</a>
-</p>
-
-<h3 align="center">Languages & Tools</h3>
-
-<p align="center">
-  Python &middot; C &middot; C++ &middot; Java &middot; JavaScript<br>
-  React &middot; Node.js &middot; Vite &middot; PostgreSQL &middot; MongoDB<br>
-  AWS &middot; Docker &middot; Git
-</p>
+<br>
+<p align="center">✨ building things that actually matter ✨</p>
