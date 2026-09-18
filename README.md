@@ -8,18 +8,18 @@
 
 <br>
 
-# 💫 About Me
+# About Me
 
-- 🎓 B.Tech AI & Data Science student
-- 💻 Building practical software across AI, Machine Learning and Web
-- ☁️ Exploring Cloud and scalable systems
-- 🤖 Building AI-powered applications
-- 🌐 Interested in full-stack development
-- 🚀 Always learning, always building
+- B.Tech AI & Data Science student
+- Building practical software across AI, Machine Learning and Web
+- Exploring Cloud and scalable systems
+- Building AI-powered applications
+- Interested in full-stack development
+- Always learning, always building
 
 <br>
 
-# 💻 Tech Stack
+# Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -40,7 +40,7 @@
 
 <br>
 
-# 🌐 Connect
+# Connect
 
 <p align="left">
   <a href="https://github.com/vaishnavi-devi7"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -50,4 +50,4 @@
 
 <br>
 
-<p align="center">✨ building things that actually matter ✨</p>
+<p align="center"> building things that actually matter !!! </p>
