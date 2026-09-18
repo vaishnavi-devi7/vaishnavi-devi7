@@ -5,7 +5,6 @@
 <br>
 <h2 align="center">Hiii, Vaishnavi devi here !</h2>
 <p align="center">
-  Building real-world AI & Full-Stack Projects
 </p>
 <br clear="all" />
 
